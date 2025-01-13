@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a6c47a3e-3ec5-41ba-b35f-c467adb85448)
 # Pepper
 Single FET breakout board for JLI2555 microphone capsule
 
